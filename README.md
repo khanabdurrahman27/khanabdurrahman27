@@ -14,7 +14,7 @@
 - 🌱 My Tech stacks includes JavaScript, Mysql, ReactJs, C++..
 - 📫 You can reach me at khanabdurrahman271@gmail.com
 
-  <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=SameeraMS&label=Profile%20views&color=0e75b6&style=flat" alt="SameeraMS" /> </p></center>
+  <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=khanabdurrahman27&label=Profile%20views&color=0e75b6&style=flat" alt="khanabdurrahman27" /> </p></center>
 
 ---
 
@@ -82,7 +82,7 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerams" alt="sameerams" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanabdurrahman27" alt="khanabdurrahman" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanabdurrahman27&show_icons=true&locale=en&layout=compact" alt="khanabdurrahman" /></p>
 
