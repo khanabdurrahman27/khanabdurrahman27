@@ -84,7 +84,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerams" alt="sameerams" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SameeraMS&show_icons=true&locale=en&layout=compact" alt="SameeraMS" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanabdurrahman27&show_icons=true&locale=en&layout=compact" alt="khanabdurrahman" /></p>
 
 
 
